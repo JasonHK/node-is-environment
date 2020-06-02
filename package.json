@@ -1,0 +1,20 @@
+{
+  "name": "@jasonhk/is-environment",
+  "version": "0.0.1",
+  "description": "Checks the environment the module currently running on (a.k.a. development or production).",
+  "keywords": [],
+  "homepage": "https://github.com/JasonHK/node-is-environment#readme",
+  "bugs": {
+    "url": "https://github.com/JasonHK/node-is-environment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/node-is-environment.git"
+  },
+  "license": "MIT",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
