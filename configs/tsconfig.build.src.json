@@ -1,0 +1,9 @@
+{
+    "extends": "@jasonhk/typescript-config",
+    "compilerOptions": {
+        "rootDir": "../src"
+    },
+    "include": [
+        "../src/**/*"
+    ]
+}
