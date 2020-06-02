@@ -16,5 +16,8 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@jasonhk/typescript-config": "^1.0.1",
+    "typescript": "^3.9.3"
+  }
 }
